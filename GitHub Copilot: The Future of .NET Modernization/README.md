@@ -8,7 +8,7 @@ Dreading your next .NET upgrade? GitHub Copilot might just change that. In this 
 
 ## Slides
 - Google Slides: https://docs.google.com/presentation/d/1L7XAx73vExBKu03H31TiJQza9cOJs4WfbAJtWYeVOvw/edit?usp=sharing
-- PDF: GitHub Copilot_ The Future of .NET Modernization.pdf
+- PDF: [GitHub Copilot_ The Future of .NET Modernization.pdf](https://github.com/jcleigh/talks/blob/main/GitHub%20Copilot%3A%20The%20Future%20of%20.NET%20Modernization/GitHub%20Copilot_%20The%20Future%20of%20.NET%20Modernization.pdf)
 
 
 ## Recording
